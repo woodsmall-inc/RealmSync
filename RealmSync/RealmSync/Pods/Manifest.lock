@@ -1,3 +1,26 @@
-PODFILE CHECKSUM: a8774eff7db3b221467d367802a9c7990c9fd78e
+PODS:
+  - Eureka (5.3.6)
+  - Realm (10.25.2):
+    - Realm/Headers (= 10.25.2)
+  - Realm/Headers (10.25.2)
+  - RealmSwift (10.25.2):
+    - Realm (= 10.25.2)
+
+DEPENDENCIES:
+  - Eureka
+  - RealmSwift
+
+SPEC REPOS:
+  trunk:
+    - Eureka
+    - Realm
+    - RealmSwift
+
+SPEC CHECKSUMS:
+  Eureka: 28ad9dec6286cd7cd601fdf8e8df39bb7356a8f4
+  Realm: 978303663d0509166498f423d112e5ee97d4c91b
+  RealmSwift: a0c30c1efc49e928a0a6f8fb141bb2629616d79b
+
+PODFILE CHECKSUM: fe78af48741ab9c029ac51e4e13a779a6a334c48
 
 COCOAPODS: 1.11.2

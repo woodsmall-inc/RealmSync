@@ -6,6 +6,8 @@ target 'RealmSync' do
   use_frameworks!
 
   # Pods for RealmSync
+  pod 'RealmSwift'
+  pod 'Eureka'
 
   target 'RealmSyncTests' do
     inherit! :search_paths
